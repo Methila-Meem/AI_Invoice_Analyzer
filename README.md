@@ -165,6 +165,11 @@ notebook/AI_Invoice_Analyzer.ipynb
 ```
 ---
 
+## 🎥 Demo Video:
+👉 https://drive.google.com/file/d/1sXG0nK2BgfmmM2CFF-Ne70hKstxMJmzv/view?usp=sharing
+
+---
+
 ## 🧠 Engineering & Learning Highlights
 
 - Designed a modular AI pipeline inside a notebook:
